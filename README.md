@@ -3,6 +3,7 @@
 🌱 **Languages**</br></br>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotiln-7F52FF?style=flat&logo=Kotiln&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white"/>

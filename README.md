@@ -19,20 +19,6 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=kimye702)](https://solved.ac/kimye702)
 
-<h3 align="center">💡 My Most Used Languages 💡</h3>
-<p align="center">
-  <a href="https://github.com/kimye702">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimye702&layout=compact&show_icons=true&show_owner=true" />
-  </a>
-</p>
-<h3 align="center">💡 My Git Stats 💡</h3>
-<p align="center">
-  <a href="https://github.com/kimye702">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?usernamekimye702&show_icons=true&include_all_commits=true" />
-  </a>
-</p>
-
-
 <!--
 **kimye702/kimye702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -6,6 +6,9 @@
 ### 💻 IDEs/Editors/Framework
 <img src="https://img.shields.io/badge/android%20studio-3DDC84?style=flat&logo=android%20studio&logoColor=white"/> <img src="https://img.shields.io/badge/Spyder-FF0000?style=flat&logo=spyder%20ide&logoColor=white"/> <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white"/> <img src="https://img.shields.io/badge/VS%20Code%20Insiders-35b393.svg?style=flat&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white"/></br>
 
+### 💻 
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
+
 ### ⚡Baekjoon
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=kimye702)](https://solved.ac/kimye702)

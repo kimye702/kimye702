@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello,%20I'm%20Yejin%20:\)&fontSize=90)
 
-###🌱 Skills
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
+🌱 Skills
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat"/>
 
 <!--
 **kimye702/kimye702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

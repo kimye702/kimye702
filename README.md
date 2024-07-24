@@ -15,6 +15,9 @@
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS%20Code%20Insiders-35b393.svg?style=flat&logo=visual-studio-code&logoColor=white"/>
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={kimye702})](https://solved.ac/{kimye702})
+
 <!--
 **kimye702/kimye702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
